@@ -10,6 +10,7 @@ module.exports = {
     'no-descending-specificity': true,
     'no-duplicate-selectors': true,
     'no-invalid-position-at-import-rule': true,
+    'alpha-value-notation': 'number',
     'color-function-notation': 'modern',
     'color-hex-length': 'short',
     'length-zero-no-unit': true,
