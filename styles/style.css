@@ -17,8 +17,7 @@ html {
   font-size: 18px;
   background-color: #1b1919;
   inline-size: 1200px;
-  /* убирает сдвиг текста вниз при выставленном значении gap в блоке с карточками */
-  block-size: calc(100% - 24px);
+  block-size: 100%;
 }
 
 h1,
